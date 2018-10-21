@@ -112,7 +112,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
 					<li><i class="fa fa-phone" aria-hidden="true"></i>2234 6567</li>
-					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">nutrifitnessweb3@gmail.com</a></li>
+					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">mibodacr@gmail.com</a></li>
 				</ul>
 			</div>
 			<div class="clearfix"> </div>
@@ -182,13 +182,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<div class="w3l_banner_nav_right">
 			<div class="w3l_banner_nav_right_banner9 w3l_banner_nav_right_banner_pet">
-				
-				<a href="#">Comprar Ahora</a>
+				<!--<a href="#">Comprar Ahora</a> -->
 			</div>
 			<div class="w3ls_w3l_banner_nav_right_grid w3ls_w3l_banner_nav_right_grid_sub">
-				<h3 class="w3l_fruit">Vestiaruio para la novia</h3>
+				<h3 class="w3l_fruit">Vestuario para la novia</h3>
 				<div class="w3ls_w3l_banner_nav_right_grid1 w3ls_w3l_banner_nav_right_grid1_veg">
-					<div class="col-md-3 w3ls_w3l_banner_left w3ls_w3l_banner_left_asdfdfd">
+					<div class="col-md-3 w3ls_w3l_banner_left">
 						<div class="hover14 column">
 						<div class="agile_top_brand_left_grid w3l_agile_top_brand_left_grid">
 							<div class="agile_top_brand_left_grid_pos">
@@ -198,18 +197,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<figure>
 									<div class="snipcart-item block">
 										<div class="snipcart-thumb">
-											<a href="#"><img src="images/Productos/AumentoMasa/nutrisport-bodyplus-fresa-850gr.jpg" alt=" " class="img-responsive" /></a>
-											<p>Nutrisport Fresa (850gr)</p>
-											<h4>$20.00 <span>$25.00</span></h4>
+											<a href="#"><img src="images/vestuario_novia/vestido2.jpg" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia corte sirena</p>
+											<h4>$200.00<span>$300.00</span></h4>
 										</div>
-										<div><br></div>
 										<div class="snipcart-details">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-											<input type="hidden" name="cmd" value="_s-xclick">
-											<input type="hidden" name="hosted_button_id" value="S8G4Y68KRHB5L">
-											<input type="submit" name="submit" value="Añadir al Carrito" class="button" />
-											<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-											</form>
+												<input type="hidden" name="cmd" value="_s-xclick">
+												<input type="hidden" name="hosted_button_id" value="AYEYYVLNJF95Y">
+												<input type="submit" name="submit" value="Añadir al Carrito" class="button" />
+												<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+												</form>
 
 										</div>
 									</div>
@@ -228,9 +226,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<figure>
 									<div class="snipcart-item block">
 										<div class="snipcart-thumb">
-											<a href="#"><img src="images/Productos/AumentoMasa/nutrisport-bodyplus-yogurt-y-platano-1.8kg.jpg" alt=" " class="img-responsive" /></a>
-											<p>Nutrisport Bodyplus Yogurt y Platano(1.8kg)</p>
-											<h4>$37.00<span>$40.00</span></h4>
+											<a href="#"><img src="images/vestuario_novia/vestido1.jpg" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia corto</p>
+											<h4>$100.00<span>$125.00</span></h4>
 										</div>
 										<div class="snipcart-details">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -257,9 +255,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<figure>
 									<div class="snipcart-item block">
 										<div class="snipcart-thumb">
-											<a href="#"><img src="images/Productos/AumentoMasa/nutrisport-megapower-caja-chocoalte-2.5kg.jpg" alt=" " class="img-responsive" /></a>
-											<p>Nutrisport Megapower Chocolate (2.5kg)</p>
-											<h4>$30.00 <span>$36.00</span></h4>
+											<a href="#"><img src="images/vestuario_novia/vestido3.jpg" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia corte princesa</p>
+											<h4>$175.00 <span>$225.00</span></h4>
 										</div>
 										<div class="snipcart-details">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -286,9 +284,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<figure>
 									<div class="snipcart-item block">
 										<div class="snipcart-thumb">
-											<a href="#"><img src="images/Productos/AumentoMasa/nutrisport-megapower-chocolate-816gr.jpg" alt=" " class="img-responsive" /></a>
-											<p>Nutrisport Megapower Chocolate (816gr)</p>
-											<h4>$26.00 <span>$30.00</span></h4>
+											<a href="#"><img src="images/vestuario_novia/vestido4" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia corte imperio</p>
+											<h4>$150.00 <span>$195.00</span></h4>
 										</div>
 										<div class="snipcart-details">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -318,9 +316,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<figure>
 									<div class="snipcart-item block">
 										<div class="snipcart-thumb">
-											<a href="#"><img src="images/Productos/AumentoMasa/nutrisport-megapower-fresa-816gr.jpg" alt=" " class="img-responsive" /></a>
-											<p>Nutrisport Megapower Fresa (816gr)</p>
-											<h4>$26.00 <span>$30.00</span></h4>
+											<a href="#"><img src="images/vestuario_novia/vestido5.jpg" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia evase</p>
+											<h4>$190.00<span>$230.00</span></h4>
 										</div>
 										<div class="snipcart-details">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -347,9 +345,67 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<figure>
 									<div class="snipcart-item block">
 										<div class="snipcart-thumb">
-											<a href="#"><img src="images/Productos/AumentoMasa/nutrisport-megapower-vanilla-816gr.jpg" alt=" " class="img-responsive" /></a>
-											<p>Nutrisport Megapower Vanilla (816gr)</p>
-											<h4>$26.00 <span>$30.00</span></h4>
+											<a href="#"><img src="images/vestuario_novia/vestido6" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia escote abierto</p>
+											<h4>$150.00 <span>$180.00</span></h4>
+										</div>
+										<div class="snipcart-details">
+											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+											<input type="hidden" name="cmd" value="_s-xclick">
+											<input type="hidden" name="hosted_button_id" value="QNFRHP9LQ6KXE">
+											<input type="submit" name="submit" value="Añadir al Carrito" class="button" />
+											<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+											</form>
+
+										</div>
+									</div>
+								</figure>
+							</div>
+						</div>
+						</div>
+					</div>
+					<div class="col-md-3 w3ls_w3l_banner_left">
+						<div class="hover14 column">
+						<div class="agile_top_brand_left_grid w3l_agile_top_brand_left_grid">
+							<div class="agile_top_brand_left_grid_pos">
+								<img src="images/offer.png" alt=" " class="img-responsive" />
+							</div>
+							<div class="agile_top_brand_left_grid1">
+								<figure>
+									<div class="snipcart-item block">
+										<div class="snipcart-thumb">
+											<a href="#"><img src="images/vestuario_novia/vestido8" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia estilo ball gown</p>
+											<h4>$275.00 <span>$300.00</span></h4>
+										</div>
+										<div class="snipcart-details">
+											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+											<input type="hidden" name="cmd" value="_s-xclick">
+											<input type="hidden" name="hosted_button_id" value="QNFRHP9LQ6KXE">
+											<input type="submit" name="submit" value="Añadir al Carrito" class="button" />
+											<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+											</form>
+
+										</div>
+									</div>
+								</figure>
+							</div>
+						</div>
+						</div>
+					</div>
+					<div class="col-md-3 w3ls_w3l_banner_left">
+						<div class="hover14 column">
+						<div class="agile_top_brand_left_grid w3l_agile_top_brand_left_grid">
+							<div class="agile_top_brand_left_grid_pos">
+								<img src="images/offer.png" alt=" " class="img-responsive" />
+							</div>
+							<div class="agile_top_brand_left_grid1">
+								<figure>
+									<div class="snipcart-item block">
+										<div class="snipcart-thumb">
+											<a href="#"><img src="images/vestuario_novia/vestido9" alt=" " class="img-responsive" /></a>
+											<p>Vestido de novia talla grande</p>
+											<h4>$200.00 <span>$250.00</span></h4>
 										</div>
 										<div class="snipcart-details">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -417,7 +473,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 			</div>
 			<div class="wthree_footer_copy">
-				<p>© 2018 Nutri-Fitness. Todos los derechos reservados | Creada para la Globalización por  <a href="http://w3layouts.com/">Carolina, Meribeth</a></p>
+				<p>© 2018 MiBodaCR Todos los derechos reservados</p>
 			</div>
 		</div>
 	</div>

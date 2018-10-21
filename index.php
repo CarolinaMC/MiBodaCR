@@ -42,6 +42,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="w3l_offers" >
 			<a href="index.php">Ofertas especiales!</a>
 		</div>
+		
 		<div class="w3l_search">
 			<form action="#" method="post">
 				<input type="text" name="Product" value="Buscar producto..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Buscar producto';}" required="">
@@ -75,6 +76,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<ul class="dropdown-menu drp-mnu">
 								<li><a href="login.php">Entrar</a></li> 
 								<li><a href="login.php">Regístrate</a></li>
+								<li><a href="ingresar_pro_ser.php">Ingresar Producto/Servicio</a></li>
 								<li><a href="login.php">Salir</a></li>
 							</ul>
 						</div>                  
@@ -112,7 +114,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
 					<li><i class="fa fa-phone" aria-hidden="true"></i>2234 6567</li>
-					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">nutrifitnessweb3@gmail.com</a></li>
+					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">mibodacr@gmail.com</a></li>
 				</ul>
 			</div>
 			<div class="clearfix"> </div>
@@ -177,7 +179,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<div class="w3l_banner_nav_right_banner">
 								<div class="more">
-									<a href="Proteinas.php" class="button--saqui button--round-l button--text-thick" data-text="Ver ahora">Ver ahora</a>
+								
 								</div>
 							</div>
 						</li>
@@ -185,15 +187,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="w3l_banner_nav_right_banner1">
 								<!--<h3>Make your <span>food</span> with Spicy.</h3>-->
 								<div class="more">
-									<a href="VitaminasMinerales.php" class="button--saqui button--round-l button--text-thick" data-text="Ver ahora">Ver ahora</a>
+									
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="w3l_banner_nav_right_banner2">
-								<h3><i>50%</i>de descuento</h3>
 								<div class="more">
-									<a href="Fitballs.php" class="button--saqui button--round-l button--text-thick" data-text="Ver ahora ">Ver ahora</a>
+									
 								</div>
 							</div>
 						</li>
@@ -224,26 +225,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="wthree_banner_bottom_left_grid_sub1">
 				<div class="col-md-4 wthree_banner_bottom_left">
 					<div class="wthree_banner_bottom_left_grid">
-						<a href="https://www.mipielsana.com/escoger-una-buena-proteina-gym/" target="_blank"><img src="images/4.jpg" alt=" " class="img-responsive" /></a>
+						<a href="https://www.booking.com/hotel/cr/volcano-lodge.html" target="_blank"><img src="images/hotel1.jpg" alt=" " class="img-responsive" /></a>
 						<div class="wthree_banner_bottom_left_grid_pos">
-							<h4>Descuentos con mas de un  <span>25%</span></h4>
+							<h4 style="color:#fff">Volcano Lodge & Springs <span>25%</span></h4>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 wthree_banner_bottom_left">
 					<div class="wthree_banner_bottom_left_grid">
-						<a href="https://www.mipielsana.com/escoger-una-buena-proteina-gym/" target="_blank"><img src="images/5.jpg" alt=" " class="img-responsive" /></a>
-						<!--<div class="wthree_banner_btm_pos">
-							<h3>introducing <span>best store</span> for <i>groceries</i></h3>
-						</div>-->
+						<a href="https://www.booking.com/hotel/cr/bella-vista-mar.pl.html" target="_blank"><img src="images/hotel2.jpg" alt=" " class="img-responsive" /></a>
+						<div class="wthree_banner_bottom_left_grid_pos">
+							<h4 style="color:#fff">Volcano Lodge & Springs <span>25%</span></h4>
+						</div>
 					</div>
 				</div>
 				<div class="col-md-4 wthree_banner_bottom_left">
 					<div class="wthree_banner_bottom_left_grid">
-						<a href="http://goldsgymcr.com/" target="_blank"><img src="images/6.jpg" alt=" " class="img-responsive" /></a>
-						<!--<div class="wthree_banner_btm_pos1">
-							<h3>Save <span>Upto</span> $10</h3>
-						</div>-->
+						<a href="https://www.booking.com/hotel/cr/best-western-jaco-beach" target="_blank"><img src="images/hotel3.jpg" alt=" " class="img-responsive" /></a>
+						<div class="wthree_banner_bottom_left_grid_pos">
+							<h4 style="color:#fff">Best Western Jaco Beach <span>25%</span></h4>
+						</div>
 					</div>
 				</div>
 				<div class="clearfix"> </div>
@@ -251,18 +252,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="clearfix"> </div>
 	</div>
 <!-- top-brands -->
-	<div class="top-brands">
-		<div class="container">
-			<h3>Recomendaciones para mejorar tu salud </h3>
-			<div class="agile_top_brands_grids">
-				
-			</div>
-				
-				
-			<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
+	
 <!-- //top-brands -->
 <!-- footer -->
 	<div class="footer">
@@ -303,7 +293,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 			</div>
 			<div class="wthree_footer_copy">
-				<p>© 2018 Nutri-Fitness. Todos los derechos reservados | Creada para la Globalización por  <a href="http://w3layouts.com/">Carolina, Meribeth</a></p>
+				<p>© 2018 MiBodaCR Todos los derechos reservados</p>
 			</div>
 		</div>
 	</div>

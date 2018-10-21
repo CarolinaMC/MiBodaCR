@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>NutriFitness</title>
+<title>MiBodaCR</title>
 <link rel="shortcut icon" href="http://latinohitsradio.com/wp-content/uploads/2017/01/nutrifitness.png" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -76,13 +76,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="logo_products">
 		<div class="container">
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php"><span></span> <img src="images/nutrifitnes2.png" alt=" " class="img-responsive" width="60%" height="30%"/></a></h1>
+				<h1><a href="index.php"><span></span> <img src="images/miBodaCR.png" alt=" " class="img-responsive" width="60%" height="30%"/></a></h1>
 			</div>
 			<div><br><br></div>
 			<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
 					<li><i class="fa fa-phone" aria-hidden="true"></i>2234 6567</li>
-					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">nutrifitnessweb3@gmail.com</a></li>
+					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">mibodacr@gmail.com</a></li>
 				</ul>
 			</div>
 			<div class="clearfix"> </div>
@@ -199,8 +199,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 			</div>
 			<div class="wthree_footer_copy">
-				<p>© 2018 Nutri-Fitness. Todos los derechos reservados | Creada para la Globalización por  <a href="http://w3layouts.com/">Angelica,Carolina,Liseth</a></p>
-			</div>
+				<p>© 2018 MiBodaCR Todos los derechos reservados</p>
+		    </div>
 		</div>
 	</div>
 <!-- //footer -->

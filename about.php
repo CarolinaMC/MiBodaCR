@@ -105,13 +105,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="logo_products">
 		<div class="container">
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php"><span></span> <img src="images/nutrifitnes2.png" alt=" " class="img-responsive" width="60%" height="30%"/></a></h1>
+				<h1><a href="index.php"><span></span> <img src="images/miBodaCR.png" alt=" " class="img-responsive" width="60%" height="30%"/></a></h1>
 			</div>
 			<div><br><br></div>
 			<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
 					<li><i class="fa fa-phone" aria-hidden="true"></i>2234 6567</li>
-					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">nutrifitnessweb3@gmail.com</a></li>
+					<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">mibodacr@gmail.com</a></li>
 				</ul>
 			</div>
 			<div class="clearfix"> </div>
@@ -132,39 +132,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- team -->
 	<div class="team">
 		<div class="container">
-			<h3>Conoce nuestro equipo</h3>
-			<div class="agileits_team_grids">
-				<div class="col-md-4 agileits_team_grid">
-					<h4>Carolina Mora Cordero</h4>
-					<p>Desarrollador</p>
-					<ul class="agileits_social_icons agileits_social_icons_team">
-						<li><a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="google"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-				<div class="col-md-4 agileits_team_grid">
-					
-					<h4>Lisseth Bolaños</h4>
-					<p>Desarrollador</p>
-					<ul class="agileits_social_icons agileits_social_icons_team">
-						<li><a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="google"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-				<div class="col-md-4 agileits_team_grid">
-					
-					<h4>Angelica Rojas</h4>
-					<p>Desarrollador</p>
-					<ul class="agileits_social_icons agileits_social_icons_team">
-						<li><a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="google"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
+			<h3>Quienes somos</h3>
+			</br><h4><center>Visión</center></h4>
+			</br><h4><center>“Ser un sitio líder en adquisición de productos y servicios para la organización de bodas en Costa Rica.”</center></h4>
+			</br><h4><center>Mision</center></h4>
+			</br><h4><center>“Ser líder en la adquisición de productos y servicios para eventos de bodas, satisfaciendo las necesidades de nuestros suscriptores y de nuestros clientes por encima de sus expectativas sin necesidad de movilizarse.”</center></h4>
 		</div>
 	</div>
 <!-- //team -->
@@ -207,7 +179,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 			</div>
 			<div class="wthree_footer_copy">
-				<p>© 2018 Nutri-Fitness. Todos los derechos reservados | Creada para la Globalización por  <a href="http://w3layouts.com/">Angelica,Carolina,Liseth</a></p>
+				<p>© 2018 MiBodaCR Todos los derechos reservados</p>
 			</div>
 		</div>
 	</div>

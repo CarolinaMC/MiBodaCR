@@ -2,26 +2,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Nutri-Fitness</title>
-<!-- for-mobile-apps -->
+<title>MiBodaCR</title>
+<link rel="shortcut icon" href="http://latinohitsradio.com/wp-content/uploads/2017/01/nutrifitness.png" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Grocery Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
-<!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<!-- font-awesome icons -->
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" /> 
-<!-- //font-awesome icons -->
-<!-- js -->
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 <script src="js/jquery-1.11.1.min.js"></script>
-<!-- //js -->
 <link href='//fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
-<!-- start-smoth-scrolling -->
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
 <script type="text/javascript">
@@ -32,9 +27,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		});
 	});
 </script>
-<!-- start-smoth-scrolling -->
 </head>
-	
 <body>
 <!-- header -->
 	<div class="agileits_header">
@@ -59,28 +52,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</fieldset>
 					</form>
 		 </div>
-			<!--<div class="w3l_offers" id="usernameClass">				
-				<h2><?php if(isset($_SESSION["usuario"])){echo $_SESSION["usuario"]["username"];}?></h2>
-			</div> -->
-		<div class="w3l_header_right">
-			<ul>
-				<div class="usernameClass">				
-				<a><?php if(isset($_SESSION["usuario"])){echo $_SESSION["usuario"]["username"];}?></a>
-			</div>
-				<li class="dropdown profile_details_drop">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i><span class="caret"></span></a>
-					<div class="mega-dropdown-menu">
-						<div class="w3ls_vegetables">
-							<ul class="dropdown-menu drp-mnu">
-								<li><a href="login.php">Entrar</a></li> 
-								<li><a href="login.php">Regístrate</a></li>
-								<li><a href="login.php">Salir</a></li>
-							</ul>
-						</div>                  
-					</div>	
-				</li>
-			</ul>
-		</div>
 		<div class="w3l_header_right1">
 			<h2><a href="mail.php">Contáctenos</a></h2>
 		</div>
@@ -122,8 +93,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="products-breadcrumb">
 		<div class="container">
 			<ul>
-				<li><i class="fa fa-home" aria-hidden="true"></i><a href="index.php">Página principal</a><span>|</span></li>
-				<li>Contáctenos</li>
+				<li><i class="fa fa-home" aria-hidden="true"></i><a href="index.php">Pagina Principal</a><span>|</span></li>
+				<li>Entrar & Salir</li>
 			</ul>
 		</div>
 	</div>
@@ -131,53 +102,54 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- banner -->
 	<div class="banner">
 		
-<!-- mail -->
-		<div class="mail">
-			<h3>Redacte el mensaje</h3>
-			<div class="agileinfo_mail_grids">
-				<div class="col-md-4 agileinfo_mail_grid_left">
-					<ul>
-						<li><i class="fa fa-home" aria-hidden="true"></i></li>
-						<li>Dirección<span>Heredia, Costa Rica</span></li>
-					</ul>
-					<ul>
-						<li><i class="fa fa-envelope" aria-hidden="true"></i></li>
-						<li>email<span><a href="mailto:info@example.com">mibodacr@gmail.com</a></span></li>
-					</ul>
-					<ul>
-						<li><i class="fa fa-phone" aria-hidden="true"></i></li>
-						<li>Contacteanos al <span>(+506) 2234 6567</span></li>
-					</ul>
-				</div>
-				<div class="col-md-8 agileinfo_mail_grid_right">
-					<form action="#" method="post">
-						<div class="col-md-6 wthree_contact_left_grid">
-							<input type="text" name="Name" value="Nombre*" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name*';}" required="">
-							<input type="email" name="Email" value="Email*" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email*';}" required="">
-						</div>
-						<div class="col-md-6 wthree_contact_left_grid">
-							<input type="text" name="Telephone" value="Teléfono*" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Telephone*';}" required="">
-							<input type="text" name="Subject" value="Asunto*" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Subject*';}" required="">
-						</div>
-						<div class="clearfix"> </div>
-						<textarea  name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Redacte aquí la consulta...';}" required="">Mensaje</textarea>
-						<input type="submit" value="Enviar">
-						<input type="reset" value="Borrar">
+		<div class="w3l_banner_nav_right">
+<!-- login -->
+		<div class="w3_login">
+			<h3>Ingresar Productos/Servicios</h3>
+			<div class="w3_login_module">
+				<div class="module form-module">
+				  <div class="toggle">
+				  </div>
+				  <div  class="form">
+					<h2>Crear una cuenta</h2>
+					<form action="registro.php" method="post">
+					<select name="opcion">
+					  <option value="producto">Producto</option>
+					  <option value="servicio">Servicio</option>
+					</select>
+					 <input type="text" name="Username" placeholder="Nombre" required=" ">
+					  <input id="password" type="password" name="Password" placeholder="Precio" required=" ">
+					  <input type=file size=60 name="file1"><br><br>
+					  <input type="submit" value="Agregar">
 					</form>
+				  </div>
+				  <?php
+
+
+				   ?>
 				</div>
-				<div class="clearfix"> </div>
 			</div>
+			<script>
+				$('.toggle').click(function(){
+				  // Switches the Icon
+				  $(this).children('i').toggleClass('fa-pencil');
+				  // Switches the forms  
+				  $('.form').animate({
+					height: "toggle",
+					'padding-top': 'toggle',
+					'padding-bottom': 'toggle',
+					opacity: "toggle"
+				  }, "slow");
+				});
+			</script>
 		</div>
-<!-- //mail -->
+<!-- //login -->
 		</div>
 		<div class="clearfix"></div>
 	</div>
 <!-- //banner -->
-<!-- map -->
-	<div class="map">
-		<iframe src="https://www.google.com/maps/embed/v1/search?q=Heredia,+Costa+Rica&key=AIzaSyDKvcUtbZ2ZI9THv0Sufy84CC5f9c7S30Y" style="border:0"> </iframe>
-	</div>
-<!-- //map -->
+
+
 <!-- footer -->
 	<div class="footer">
 		<div class="container">
@@ -218,12 +190,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="wthree_footer_copy">
 				<p>© 2018 MiBodaCR Todos los derechos reservados</p>
-			</div>
+		    </div>
 		</div>
 	</div>
 <!-- //footer -->
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
+<script>
+	function revisar(){
+	var Username = document.getElementById("Username");
+	var password1 = document.getElementById("password1");
+	var login = document.getElementById("Login");
+
+	if( Username.value=="angelicamrs16@gmail.com" && password1.value=="123"){
+		alert("Bienvenid@ " + Username.value);
+		window.location.href = "file:///C:/ANGELICA/UNA/5AÑO-PRIMER%20SEMESTRE/Aplicaciones%20Globales/nutri_fitness/index.php";
+		return true;
+
+		//alert("Bienvenid@ " + Username.value);
+	}
+	else {
+		alert("Usuario No Registrado");
+	}
+}
+
+
+</script>
 <script>
 $(document).ready(function(){
     $(".dropdown").hover(            
@@ -276,6 +268,6 @@ $(document).ready(function(){
 			}
 		});
 
-	</script>s
+	</script>
 </body>
 </html>
